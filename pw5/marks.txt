@@ -1,0 +1,6 @@
+ Marks for course 4(4 )
+k	 	 1.0
+h	 	 1.0
+ Marks for course 5(5 )
+k	 	 2.0
+h	 	 2.0
