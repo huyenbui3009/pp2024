@@ -93,3 +93,7 @@ test_object.mark_input()
 test_object.list_students()
 test_object.list_courses()
 test_object.show_marks()
+
+# if __name__ == "__main__":
+#     marks_manager = MarkManagement()
+#     marks_manager.run()
